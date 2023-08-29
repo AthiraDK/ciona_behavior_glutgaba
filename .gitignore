@@ -1,0 +1,14 @@
+**/.ipynb_checkpoints/
+**/__pycache__**
+
+**/*.csv
+**/*.h5
+**/*.xlsx
+**/*.pickle
+**/*.pkl
+**/*.avi
+**/*.mp4
+**/*.txt
+
+!*/.gitkeep
+**/*.png
